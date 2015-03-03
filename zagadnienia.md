@@ -10,7 +10,7 @@
 
 
 # III Komunikacja, protokoły
-1. WebSockets (np. einaros/ws, Socket.IO, Engine.IO)
+1. WebSockets (np. einaros/ws, Socket.IO, Engine.IO) [Kudlicki]
 2. WebRTC (http://www.webrtc.org/)
 3. 0MQ
 4. Protocol Buffers
