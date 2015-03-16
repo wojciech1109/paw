@@ -1,7 +1,7 @@
 # I Grafika, interaktywna grafika
 1. Node-RED (http://nodered.org/)
 2. D3 (http://d3js.org/)
-3. Fabric.js (http://fabricjs.com/)
+3. Fabric.js (http://fabricjs.com/) [Kula]
 
 
 # II Gry
