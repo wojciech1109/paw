@@ -20,7 +20,7 @@
 # IV Frameworki aplikacji webowych
 1. AngularJS [Chruściel]
 2. Polymer [Wrzalik]
-3. Ionic
+3. Ionic [Leśniak]
 
 # V Narzędzia
 1. Browserify
