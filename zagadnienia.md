@@ -22,11 +22,6 @@
 2. Polymer [Wrzalik]
 3. Ionic [Leśniak]
 
-# V Narzędzia
-1. Browserify
-2. Grunt
-3. Bower
-
-# VI Inne
+# V Inne
 1. Chrome extensions
 2. Firefox add-ons
