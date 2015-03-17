@@ -14,6 +14,8 @@
 3. 0MQ
 4. Protocol Buffers
 5. MessagePack
+6. REST API 
+7. JSON-RPC API
 
 # IV Frameworki aplikacji webowych
 1. AngularJS [Chruściel]
