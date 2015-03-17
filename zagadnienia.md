@@ -25,3 +25,4 @@
 # V Inne
 1. Chrome extensions
 2. Firefox add-ons
+3. Grunt + Bower + Browserify
