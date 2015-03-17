@@ -1,7 +1,7 @@
 # paw
 Materiały z przedmiotu "Projekt aplikacji webowej"
 
-Poniżej link do listy zagadnień. Każdy musi wybrać jedno (możliwe są dwuosobowe grupy):
+Poniżej link do listy zagadnień. Każdy musi wybrać jeden temat (możliwe są dwuosobowe grupy):
 
 [Lista zagadnień](zagadnienia.md)
 
