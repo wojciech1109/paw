@@ -5,7 +5,7 @@
 
 # II Gry
 1. CreateJS (http://createjs.com/)
-2. Phaser (http://phaser.io/)
+2. Phaser (http://phaser.io/) [Kindla]
 3. pixi.js (http://www.pixijs.com/)
 
 # III Komunikacja, protokoły
