@@ -22,7 +22,7 @@
 4. ASP.NET MVC [Bałchanowski]
 5. Ruby on Rails [Trafiał]
 6. Node.js + Express.js
-7. MEAN.io
+7. MEAN.io [Dutkiewicz]
 8. Sails.js (http://sailsjs.org/)
 
 # V Inne
