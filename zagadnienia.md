@@ -25,7 +25,7 @@
 7. MEAN.io
 8. Sails.js (http://sailsjs.org/)
 
-# VI Inne
+# V Inne
 1. Chrome extensions [Białas]
 2. Firefox add-ons
 3. Grunt + Bower + Browserify [Frelas, Ziomek]
