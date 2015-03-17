@@ -1,7 +1,11 @@
 # Projekt zaliczeniowy z przedmiotu "Projekt aplikacji webowej"
 
 Waszym zadaniem jest **przygotowanie tutoriala** przedstawiającego sposób wykorzystania danej technologii/frameworks/biblioteki.
-Tutorial ma zawierać **opis** (w formie tekstu, prezentacji itp.) oraz **praktyczną realizację**, czyli aplikację.
+Tutorial ma zawierać **opis** (w formie tekstu, prezentacji itp.) oraz **praktyczną realizację**, czyli aplikację (kompletny kod źródłowy).
+
+**Uwaga! Wszyscy muszą się zapisać do kursu na platformie e-learningowej: http://el.us.edu.pl/wiinom/course/view.php?id=384
+
+Zróbcie to do końca tego tygodnia (do 22.03)**
 
 Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuosobowe grupy):
 
