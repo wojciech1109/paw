@@ -4,7 +4,7 @@
 3. Fabric.js (http://fabricjs.com/) [Kula]
 
 # II Gry
-1. CreateJS (http://createjs.com/)
+1. CreateJS (http://createjs.com/) [Kowalczyk]
 2. Phaser (http://phaser.io/) [Kindla]
 3. pixi.js (http://www.pixijs.com/)
 
@@ -23,7 +23,7 @@
 3. Ionic [Leśniak]
 4. ASP.NET MVC [Bałchanowski]
 5. Ruby on Rails [Trafiał]
-6. Node.js + Express.js
+6. Node.js + Express.js [Siekaniec]
 7. MEAN.io [Dutkiewicz]
 8. Sails.js (http://sailsjs.org/)
 
