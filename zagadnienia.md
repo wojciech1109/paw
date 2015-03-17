@@ -27,7 +27,7 @@
 
 # V Inne
 1. Chrome extensions [Białas]
-2. Firefox add-ons
+2. Firefox add-ons [Zacharski]
 3. Grunt + Bower + Browserify [Frelas, Ziomek]
 4. Jasmine (http://jasmine.github.io/) + Karma (http://karma-runner.github.io/)
 5. CocoonJS (najlepiej w połączeniu z jakimś silnikiem grafiki 2D lub 3D)
