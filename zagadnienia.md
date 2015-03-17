@@ -21,8 +21,13 @@
 1. AngularJS [Chruściel]
 2. Polymer [Wrzalik]
 3. Ionic [Leśniak]
+4. ASP.NET MVC [Bałchanowski]
+5. Ruby on Rails [Trafiał]
+6. Node.js + Express.js
+7. MEAN.io
+8. Sails.js (http://sailsjs.org/)
 
-# V Inne
+# VI Inne
 1. Chrome extensions [Białas]
 2. Firefox add-ons
 3. Grunt + Bower + Browserify [Frelas, Ziomek]
