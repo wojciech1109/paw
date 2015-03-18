@@ -25,7 +25,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 3. 0MQ
 4. Protocol Buffers
 5. MessagePack
-6. Web service REST 
+6. Web service REST [Zacharjin]
 7. Web service JSON-RPC
 
 ## IV Frameworki aplikacji webowych
