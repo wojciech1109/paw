@@ -33,7 +33,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 2. Polymer [Wrzalik]
 3. Ionic [Leśniak]
 4. ASP.NET MVC [Bałchanowski]
-5. Ruby on Rails [Trafiał]
+5. Ruby on Rails [Trafiał][Woda]
 6. Node.js + Express.js [Siekaniec]
 7. MEAN.io [Dutkiewicz]
 8. Sails.js (http://sailsjs.org/)
