@@ -37,11 +37,11 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 6. Node.js + Express.js [Siekaniec]
 7. MEAN.io [Dutkiewicz]
 8. Sails.js (http://sailsjs.org/)
-9. Spring [Musioł][Płonka]
+9. Spring [Musioł + Płonka]
 
 ## V Inne
 1. Chrome extensions [Białas]
 2. Firefox add-ons [Zacharski]
-3. Grunt + Bower + Browserify [Frelas, Ziomek]
+3. Grunt + Bower + Browserify [Frelas + Ziomek]
 4. Jasmine (http://jasmine.github.io/) + Karma (http://karma-runner.github.io/)
 5. CocoonJS (najlepiej w połączeniu z jakimś silnikiem grafiki 2D lub 3D)
