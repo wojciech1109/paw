@@ -39,6 +39,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 8. Sails.js (http://sailsjs.org/)
 9. Spring [Musioł + Płonka]
 10. JavaServer Faces [Fiszer][Serkowski]
+11. CodeIgniter [Mazgaj]
 
 ## V Inne
 1. Chrome extensions [Białas]
