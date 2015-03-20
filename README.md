@@ -38,7 +38,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 7. MEAN.io [Dutkiewicz]
 8. Sails.js (http://sailsjs.org/)
 9. Spring [Musioł + Płonka]
-10. JavaServer Faces [Fiszer]
+10. JavaServer Faces [Fiszer][Serkowski]
 
 ## V Inne
 1. Chrome extensions [Białas]
