@@ -11,7 +11,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 
 ## I Grafika, interaktywna grafika
 1. Node-RED (http://nodered.org/)
-2. D3 (http://d3js.org/) [Kamiński]
+2. D3 (http://d3js.org/) [Kamiński][Dejnak]
 3. Fabric.js (http://fabricjs.com/) [Kula]
 
 ## II Gry
