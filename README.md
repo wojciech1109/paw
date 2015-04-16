@@ -31,7 +31,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 ## IV Frameworki aplikacji webowych
 1. AngularJS [Chruściel]
 2. Polymer [Wrzalik]
-3. Ionic [Leśniak]
+3. Ionic [Leśniak+Adamiec]
 4. ASP.NET MVC [Bałchanowski]
 5. Ruby on Rails [Trafiał][Woda]
 6. Node.js + Express.js [Siekaniec]
