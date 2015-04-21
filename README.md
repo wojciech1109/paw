@@ -40,6 +40,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 9. Spring [Musioł + Płonka]
 10. JavaServer Faces [Fiszer][Serkowski+Tomczyk]
 11. CodeIgniter [Mazgaj]
+12. Django [Szcześniak]
 
 ## V Inne
 1. Chrome extensions [Białas]
