@@ -41,6 +41,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 10. JavaServer Faces [Fiszer][Serkowski+Tomczyk]
 11. CodeIgniter [Mazgaj]
 12. Django [Szcześniak]
+13. Laravel [Prus + Chlebuś]
 
 ## V Inne
 1. Chrome extensions [Białas]
