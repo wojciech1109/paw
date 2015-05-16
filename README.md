@@ -37,7 +37,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 6. Node.js + Express.js [Siekaniec]
 7. MEAN.io [Dutkiewicz][Kalarus]
 8. Sails.js (http://sailsjs.org/)
-9. Spring [Musioł + Płonka]
+9. Spring [Musioł+Płonka][Kleczko+Freicher]
 10. JavaServer Faces [Fiszer][Serkowski+Tomczyk]
 11. CodeIgniter [Mazgaj]
 12. Django [Szcześniak]
