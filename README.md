@@ -17,7 +17,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 ## II Gry
 1. CreateJS (http://createjs.com/) [Kowalczyk]
 2. Phaser (http://phaser.io/) [Kindla]
-3. pixi.js (http://www.pixijs.com/) [Bajor+Lenik]
+3. pixi.js (http://www.pixijs.com/) [Bajor+Lenik][Sadlik+Radej]
 
 ## III Komunikacja, protokoły
 1. WebSockets (np. einaros/ws, Socket.IO, Engine.IO) [Kudlicki]
@@ -33,7 +33,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 2. Polymer [Wrzalik]
 3. Ionic [Leśniak+Adamiec]
 4. ASP.NET MVC [Bałchanowski]
-5. Ruby on Rails [Trafiał][Woda]
+5. Ruby on Rails [Trafiał][Woda][Świszcz+Wiśniewski]
 6. Node.js + Express.js [Siekaniec]
 7. MEAN.io [Dutkiewicz][Kalarus]
 8. Sails.js (http://sailsjs.org/)
