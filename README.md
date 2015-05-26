@@ -10,7 +10,7 @@ Tutorial ma zawierać **opis** (w formie tekstu, prezentacji itp.) oraz **prakty
 Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuosobowe grupy):
 
 ## I Grafika, interaktywna grafika
-1. Node-RED (http://nodered.org/)
+1. Node-RED (http://nodered.org/) [Kuczera + Tomsia]
 2. D3 (http://d3js.org/) [Kamiński][Dejnak]
 3. Fabric.js (http://fabricjs.com/) [Kula]
 
